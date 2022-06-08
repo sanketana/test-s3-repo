@@ -1,0 +1,66 @@
+Arya - 90% - Rock Paper Scissors
+Riya - 95% - Survey!
+Pradyun - 100% - Tic Tac Toe
+Mukund - 100% - Browser
+
+
+Prateek - 100% - Calorify
+Mishka - 75% - Weather app
+Ramya - 100% - Weather app
+Kanishka - 20% - 
+
+Concepts - 
+Frame / destroy and pack, pack forget
+Lambda
+Picture
+Iconbitmap
+
+
+- Riya Grok
+- Pradyun tic tac toe
+- Ramya bug 
+- Mukund
+- send video Tic Tac Toe
+
+S2
+
+Pradyun - Memory / Tic Tac Toe
+Arya - Rock Paper Scissors / Tic Tac Toe
+Mukund - Calculator / Chat App
+Riya - Survey
+
+
+Mon, Tue, Thu, Fri
+Mon, Tue, Thu, Fri
+
+
+Tkinter
+
+1. Empty Window
+2. Window Color, size
+3. Create widget (label, button, text box, message box)
+4. Add to grid
+6. Setting height / width of widgets
+5. Event Loop
+
+5. Adding Images (pillow)
+7. Frame (similar to horizontal arrangement)
+8. Border and Padding etc.
+9 . Writing to file
+
+
+- Grid
+- Age calculator
+- Temperature Converter
+1. Weather App
+2. Tic Tac Toe
+3. Notepad
+4. Chat App
+5. Calorify
+
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+Step# 1 - SQL Foundation
+
+Step# 2 - Basic Frontend Design (Tkinter - only Read Operation on Existing Db)
+
+Step# 3 - Database Design, Build (ER Diagram, Create and Load Tables)
+
+Step# 4 - More complex Front End with - Insert, Update, Delete Operations
+
+
+
+Tkinter Frontend for MySQL
+
+
+Step# 1 - Designing and Creating a table
+
+Step# 2 - Loading data in Table
+
+Step# 3 - Basic Tkinter interface and display data (R - of CRUD operations)
+
+Step# 4 - Create, Update, Delete of CRUD operations
+
+
+- Only Single table, Single page application
+
+
+
+File -> New Model
+Create Table Film
+Add columns with correct datatypes and precision by refering Sakila database
+Pay attention to Type, Null, Key, Defaul attributes
+Keep it simple and Use Basic Datatypes only mentioned below
+Remove the braces in Mysqlworkbench to take default precision
+Basic Datatypes
+INT
+VARCHAR
+DECIMAL
+DATE
+TIMESTAMP
+
+Fancy Dataypes
+smallint
+text
+year
+enum
+set
+tinyint
+
+
+Create Two tables
+Film and Language
+Create Pk, Fk relationship
+
+
+Once Created Forward Engineer to create database and tables 
+
+Once tables are created
+1. Export Sakila Language
+2. Export Sakila Movie
+3. Import language into your Db
+4. Import Movie into your db
+
+Database Desing using MYSQL
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+Tk Getting Started
+
+- Intall Tk
+- import tkinter as tk
+- use nameing convention
+- create a label (Full Name)
+- pack it
+- create a button (Submit)
+- pack it
+- create an entry (Name)
+- pack it
+- event handler message box
+- mainloop
+- binding / event sequence
+- Frame - Organise Layout
+- Side and Fill - Argument
+- Introduce f-string
+
+
+
+1. Window
+2. Widgets
+3. Event Handlers
+4. Geometry Managers
+5. Costmetic Properties - Padding, Color, Raised
+
+
+padding margin
+color
+window size
+

@@ -1,0 +1,53 @@
+#Icon
+- root.iconbitmap()
+
+@Quit button
+- root.quit
+
+#Images
+- pip install pillow
+- from PIL import ImageTk, Image
+- my_img = ImageTk.PhotoImage(Image.open('pic.jpg'))
+- my_lbl = Label(image = my_img)
+
+#Frames
+- LabelFrame(root, text="something", padx = 5, pady = 5)
+
+#Multi ScreenApps
+frame1 = Frame(window, bg = "")
+btn1 = Button(frame1, text="btn1 in frame1")
+btn1.pack()
+frame1.pack()
+Concept - you pack widget inside frame, and then you pack frame inside the window
+frame1.destroy()
+or
+frame1.pack_forget()
+
+#Formatting / Layout
+fill=X (width fill parent) --> outside equivalent of CSS Margin
+padx, pady --> inside equivalent of CSS Padding
+ipadx, ipady --> interal padding
+bg, fg for backdrop and text color
+relief=RIDGE / SUNKEN
+sticky=W+E  --> used for stretching
+anchor=E --> used for aligning
+
+#Other Widgets
+LabelFrame
+RadioButton
+filedialog
+sliders (scale)
+Checkbutton
+Optionmenu
+
+#Messagebox Types
+showinfo, showwarning, showerror, askquestin, askokcancel, aaskyesno
+
+#Using Databases
+sqlite3
+
+
+Project
+- Image Viewer (Pillow)
+- Login Screen
+- Search and Replace window
